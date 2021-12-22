@@ -11,7 +11,7 @@ body {
   justify-content: center;
   align-items: center;
 
-  background-image: url("./img/pattern-paw@3x.png");
+  background-image: url("../img/pattern-paw@3x.png");
   background-position: center;
   background-repeat: repeat;
 }
