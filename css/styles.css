@@ -68,6 +68,10 @@ body {
     box-shadow: 20px 20px 200px #fff5f5;
   }
 
+  .container {
+    height: 90vh;
+  }
+
   .container button {
     width: 140px;
     height: 60px;
