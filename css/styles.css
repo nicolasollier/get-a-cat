@@ -1,11 +1,12 @@
-html,
-body {
+html {
+  height: -webkit-fill-available;
   overflow-x: hidden;
-  overflow-y: hidden;
 }
 
 body {
-  position: relative;
+  min-height: 100vh;
+  /* mobile viewport bug fix */
+  min-height: -webkit-fill-available;
   background-color: #fff5f5;
 }
 
