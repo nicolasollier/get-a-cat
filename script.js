@@ -16,7 +16,7 @@ const getCat = async () => {
 const button = document.querySelector("#get-cat");
 button.addEventListener("click", getCat);
 
-// Resisee on mobile views
+// Resize on mobile views
 
 function resetHeight() {
   // reset the body height to that of the inner browser
